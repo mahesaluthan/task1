@@ -1,0 +1,6 @@
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\bin\Debug\binary read and write.exe.config
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\bin\Debug\binary read and write.exe
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\bin\Debug\binary read and write.pdb
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\obj\Debug\binary read and write.csprojResolveAssemblyReference.cache
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\obj\Debug\binary read and write.exe
+c:\users\agus\documents\visual studio 2015\Projects\binary read and write\binary read and write\obj\Debug\binary read and write.pdb
